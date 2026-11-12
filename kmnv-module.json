@@ -1,0 +1,13 @@
+{
+  "api": 2,
+  "id": "update-demo",
+  "name": "Update demo",
+  "version": "0.2.0",
+  "entry": "update-demo",
+  "ui": "ui.json",
+  "panel": {
+    "title": "Update demo",
+    "placement": "right",
+    "icon": "↻"
+  }
+}
